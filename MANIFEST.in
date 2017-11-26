@@ -1,0 +1,2 @@
+recursive-include weather/static *
+recursive-include weather/templates *
